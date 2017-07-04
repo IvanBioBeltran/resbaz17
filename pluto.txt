@@ -1,3 +1,5 @@
 hey hey!
+<<<<<<< HEAD
 
-new line, conflict
+damage
+>>>>>>> 5ddb7d8c48d0f2f95d1edf9cc27a43b1d950e675
